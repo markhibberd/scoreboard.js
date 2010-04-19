@@ -1,0 +1,9 @@
+Scoreboard-js is derived from the original swing based scoreboard [http://www.assembla.com/spaces/peeble/wiki]. 
+
+This implementation is designed to complement, not replace, the swing version. Its primary
+function is as a lightweight kickstart, demo and for contrained devices (namely my phone
+as I am lazy).
+
+Kudos goes to Greg Davis for the original layout algorithm that is utilized by this
+implementation.
+
