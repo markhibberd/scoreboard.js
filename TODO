@@ -1,0 +1,30 @@
+= test
+
+  . port all tests over - skeltons added for all the modules
+  . roughly test suite is in boost
+  . other scoreboard tests are in boardfu fork
+
+= coverage
+
+  . bit of an idea for js coverage, leverage html 5 local storage, dynamically instrument 
+    and and add some pretty reports.
+
+    this probably has a few legs.
+
+
+= test runner
+
+  . look at pulling out nic williams' js_autotest from newjs, or something similar
+
+
+= build
+
+  . cat & minify
+  . package up to be embedded as a dependency in scoreboard-hudson plugin
+  . push some static test pages to mth.io
+
+
+= design
+
+  . attempt to sort aqueduct control of async goodies
+  . namespace up
